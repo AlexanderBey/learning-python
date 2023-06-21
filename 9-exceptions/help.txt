@@ -1,0 +1,4 @@
+# Needs file to check the errors
+
+# I'm trying to understand error handling
+# This is quite empty for the moment

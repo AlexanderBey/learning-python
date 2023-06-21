@@ -40,6 +40,7 @@ def find_path(maze, stdscr):
     end = "X"
     start_pos = find_start(maze, start)
 
+    # breath first search algorithm
     q = queue.Queue()
     q.put((start_pos, [start_pos]))
 
@@ -99,7 +100,7 @@ def find_neighbors(maze, row, col):
 
     return neighbors
 
-    # breath first search algorithm
+   
 
 
 def main(stdscr):
