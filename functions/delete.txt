@@ -1,0 +1,14 @@
+prompts for flash cards:
+
+1) Please write multiple question and answer cards based on the following information:
+
+2) Make multiple and very detailed cards on the following information, make sure to include cards on the prevalence and Make 20 concise q and a cards based on the following information and make sure to include card on differential diagnosis of sncop
+
+3) Make detailed and comprehensive q and a cards on …….
+
+4) Please make comprehensive and detailed multiple choice test like questions on the following  article….
+
+5) Create a table comparing crohn’s disease and Ulcerative colitis. Make sure to include rows for clinical presentation, pathophysicology, diagnosis and treatment. base the information on the following texts:
+
+6) Create multiple choice test questions in…………….. using the following information about ……….
+
